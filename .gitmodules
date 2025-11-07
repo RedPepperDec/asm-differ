@@ -1,0 +1,3 @@
+[submodule "tools/asm-differ"]
+	branch = main
+	update = merge
